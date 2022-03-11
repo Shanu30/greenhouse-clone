@@ -6,19 +6,19 @@ Greenhouse.io is an Aplicant tracking system & recruiting sofware.<br>
 <ol >
 <li>
  <h3>Landing Page</h3><br>
-<img  align="center" src="readmeIMG/Landing_page" alt="Landing Page" >
+<img  align="center" src="readmeIMG/Landing_page.png" alt="Landing Page" >
 </li>
 <li>
 <h3>LongStayPage</h3><br>
-<img  align="center" src="readmeIMG/Aboutus" alt="Aboutus Page" >
+<img  align="center" src="readmeIMG/Aboutus.png" alt="Aboutus Page" >
 </li>
 <li>
 <h3>Book Your Stay Page</h3><br>
-<img  align="center" src="readmeIMG/cards" alt="Community Page" >
+<img  align="center" src="readmeIMG/cards.png" alt="Community Page" >
 </li>
 <li>
 <h3>Confirm Booking Page</h3><br>
-<img  align="center" src="readmeIMG/NavFooter" alt="Navbar & Footer" >
+<img  align="center" src="readmeIMG/NavFooter.png" alt="Navbar & Footer" >
 </li>
 </p>
 </ol>
